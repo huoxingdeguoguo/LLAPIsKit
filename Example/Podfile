@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LLAPIsKit_Example' do
+  pod 'LLAPIsKit', :path => '../'
+
+  target 'LLAPIsKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
