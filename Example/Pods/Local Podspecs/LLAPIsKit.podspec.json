@@ -1,0 +1,30 @@
+{
+  "name": "LLAPIsKit",
+  "version": "1",
+  "summary": "组件学习demo中的APIs",
+  "description": "组件学习demo中的APIs",
+  "homepage": "https://github.com/huoxingdeguoguo/LLAPIsKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "284872516@qq.com": "284872516@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/huoxingdeguoguo/LLAPIsKit.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LLAPIsKit/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "FMDB": [
+
+    ]
+  }
+}

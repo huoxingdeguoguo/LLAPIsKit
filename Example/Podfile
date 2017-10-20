@@ -6,6 +6,5 @@ target 'LLAPIsKit_Example' do
   target 'LLAPIsKit_Tests' do
     inherit! :search_paths
 
-    
   end
 end
